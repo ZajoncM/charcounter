@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/charcounter/static/css/main.82774bb6.chunk.css",
+    "main.js": "/charcounter/static/js/main.90f1b9cb.chunk.js",
+    "main.js.map": "/charcounter/static/js/main.90f1b9cb.chunk.js.map",
+    "runtime-main.js": "/charcounter/static/js/runtime-main.f44d0761.js",
+    "runtime-main.js.map": "/charcounter/static/js/runtime-main.f44d0761.js.map",
+    "static/js/2.f0ca6cc1.chunk.js": "/charcounter/static/js/2.f0ca6cc1.chunk.js",
+    "static/js/2.f0ca6cc1.chunk.js.map": "/charcounter/static/js/2.f0ca6cc1.chunk.js.map",
+    "index.html": "/charcounter/index.html",
+    "precache-manifest.023bd88c42c96f809d1bc8f1011999ba.js": "/charcounter/precache-manifest.023bd88c42c96f809d1bc8f1011999ba.js",
+    "service-worker.js": "/charcounter/service-worker.js",
+    "static/css/main.82774bb6.chunk.css.map": "/charcounter/static/css/main.82774bb6.chunk.css.map",
+    "static/media/App.css": "/charcounter/static/media/memphis-mini.33545ec6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f44d0761.js",
+    "static/js/2.f0ca6cc1.chunk.js",
+    "static/css/main.82774bb6.chunk.css",
+    "static/js/main.90f1b9cb.chunk.js"
+  ]
+}
